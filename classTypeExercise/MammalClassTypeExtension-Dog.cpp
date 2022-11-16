@@ -1,4 +1,4 @@
-#include "Problem1.2.h"
+#include "MammalClassTypeExtension-Dog.h"
 #include <iostream>
 #include <string>
 #include <iomanip>
