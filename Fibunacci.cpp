@@ -16,7 +16,7 @@ int main()
     int number;
     cout << "Enter a number: ";
     cin >> number;
-    cout << "The " << number << "th Fibunaccionacci number is " << Fibunacci(number) << endl;
+    cout << "The " << number << "Fibunacci number is " << Fibunacci(number) << endl;
 
     system("pause");
     return 0;
